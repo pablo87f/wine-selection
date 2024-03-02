@@ -1,13 +1,13 @@
 import fs from "fs";
 import { WineInfo } from "../../wine-info";
 
-export class GetWineList {
+export class GetWineListJson {
   public constructor() {}
 
   run(filePath: string) {
-    if (fs.existsSync(filePath)) {
-      const data = fs.readFileSync(filePath, "utf8");
-
+    const fullFilePath = `${filePath}.json`;
+    if (fs.existsSync(fullFilePath)) {
+      const data = fs.readFileSync(fullFilePath, "utf8");
       if (data) {
         return JSON.parse(data) as WineInfo[];
       }

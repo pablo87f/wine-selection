@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Dog Crimes ''Cârnat'' Merlot",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.7,
+      "link": "https://www.vivino.com/BR/pt-BR/imperial-vin-dog-crimes-carnat-merlot/w/11981493",
+      "title": "\nImperial Vin Dog Crimes Cârnat Merlot\n\n"
+    }
+  },
+  {
+    "name": "Dusha Monakha Cabernet Sauvignon",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.8,
+      "link": "https://www.vivino.com/BR/pt-BR/josh-cellars-cabernet-sauvignon/w/1141363",
+      "title": "\nJosh Cellars Cabernet Sauvignon\n\n"
+    }
+  },
+  {
+    "name": "Ionos Cabernet Sauvignon & Merlot",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": null,
+      "link": "https://www.vivino.com/BR/pt-BR/dialektos-oinos-cabernet-sauvignon-merlot-red-wine-v-2sarf/w/11410886",
+      "title": "\nDialektos Oinos Cabernet Sauvignon - Merlot\n\n"
+    }
+  },
+  {
+    "name": "Irida Syrah PGI",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.8,
+      "link": "https://www.vivino.com/BR/pt-BR/cavino-irida-syrah-achaia/w/7453675",
+      "title": "\nCavino Irida Syrah\n\n"
+    }
+  },
+  {
+    "name": "La Pietrosola Maremma DOC",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.4,
+      "link": "https://www.vivino.com/BR/pt-BR/canneta-la-pietrosola-sangiovese-maremma-toscana-maremma-toscana/w/8194025",
+      "title": "\nCanneta La Pietrosola Sangiovese Maremma Toscana\n\n"
+    }
+  },
+  {
+    "name": "Nemea Agiorgitiko PDO",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.7,
+      "link": "https://www.vivino.com/BR/pt-BR/gaia-nemea-agiorgitiko-by-gaia/w/1557062",
+      "title": "\nGaía Agiorgitiko by Gaia\n\n"
+    }
+  },
+  {
+    "name": "Silver Diamond Butterfly Tempranillo DOC",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 3.3,
+      "link": "https://www.vivino.com/BR/pt-BR/bodegas-verduguez-silver-diamond-butterfly-tempranillo/w/1223276",
+      "title": "\nBodegas Verduguez Silver Diamond Butterfly Tempranillo\n\n"
+    }
+  },
+  {
+    "name": "Villa Danastris Cabernet Sauvignon Limited Edition",
+    "category": "Tinto",
+    "vivinoInfo": {
+      "score": 4,
+      "link": "https://www.vivino.com/BR/pt-BR/carlevana-villa-danastris-special-edition-cabernet-sauvignon/w/11571210",
+      "title": "\nCarlevana Villa Danastris Special Edition Cabernet Sauvignon\n\n"
+    }
+  },
+  {
+    "name": "Hidalgo Castilla Chardonnay DOC",
+    "category": "Branco",
+    "vivinoInfo": {
+      "score": 3.6,
+      "link": "https://www.vivino.com/BR/pt-BR/hidalgo-castilla-chardonnay/w/3740096",
+      "title": "\nHidalgo Castilla Chardonnay\n\n"
+    }
+  },
+  {
+    "name": "Hidalgo Castilla Verdejo DOC",
+    "category": "Branco",
+    "vivinoInfo": {
+      "score": 3.6,
+      "link": "https://www.vivino.com/BR/pt-BR/hidalgo-castilla-verdejo/w/2378712",
+      "title": "\nHidalgo Castilla Verdejo\n\n"
+    }
+  },
+  {
+    "name": "Vasco Viejo White Blend",
+    "category": "Branco",
+    "vivinoInfo": {
+      "score": null,
+      "link": "https://www.vivino.com/BR/pt-BR/viejo-rincon-white-blend-mendoza/w/10892410",
+      "title": "\nViejo Rincon White Blend\n\n"
+    }
+  },
+  {
+    "name": "Empirico Saperavi & Pinot Noir Rosé (Rosé)",
+    "category": "Rosé",
+    "vivinoInfo": {
+      "score": null,
+      "link": "https://www.vivino.com/BR/pt-BR/apriori-wine-empirico-saperavi-pinot-noir/w/11029205",
+      "title": "\nApriori Wine Empirico Saperavi - Pinot Noir\n\n"
+    }
+  },
+  {
+    "name": "Eu Passarinho Rose ''Sur Lie'' Edição Super Limitada (Rosé)",
+    "category": "Rosé",
+    "vivinoInfo": {
+      "score": 3.9,
+      "link": "https://www.vivino.com/BR/pt-BR/garbo-rio-grande-do-sul-evoluto-rose-sur-lie/w/9284232",
+      "title": "\nGarbo Evoluto Rosé Sur Lie\n\n"
+    }
+  },
+  {
+    "name": "Faustino VII Rosado DOC (Rosé)",
+    "category": "Rosé",
+    "vivinoInfo": {
+      "score": 3.6,
+      "link": "https://www.vivino.com/BR/pt-BR/bodegas-faustino-rioja-vii-rosado/w/22350",
+      "title": "\nBodegas Faustino VII Rosado\n\n"
+    }
+  },
+  {
+    "name": "Lozco Rose PGI (Rosé)",
+    "category": "Rosé",
+    "vivinoInfo": {
+      "score": 3.9,
+      "link": "https://www.vivino.com/BR/pt-BR/cote-des-roses-rose/w/3180824",
+      "title": "\nCôte des Roses Rosé\n\n"
+    }
+  },
+  {
+    "name": "Deus Natural Semisparkling Rosé  PGI",
+    "category": "Espumante",
+    "vivinoInfo": {
+      "score": 3.9,
+      "link": "https://www.vivino.com/BR/pt-BR/robertson-natural-sweet-rose/w/1148944",
+      "title": "\nRobertson Winery Natural Sweet Rosé\n\n"
+    }
+  },
+  {
+    "name": "Deus Natural Semisparkling White PGI",
+    "category": "Espumante",
+    "vivinoInfo": {
+      "score": 3.5,
+      "link": "https://www.vivino.com/BR/pt-BR/cavino-deus-semi-sparkling-white/w/2850548",
+      "title": "\nCavino Deus Semi Sparkling White\n\n"
+    }
+  },
+  {
+    "name": "Marina Blanc de Blancs Brut DOC",
+    "category": "Espumante",
+    "vivinoInfo": {
+      "score": 3.7,
+      "link": "https://www.vivino.com/BR/pt-BR/sainte-rose-blanc-de-blancs-brut/w/1978559",
+      "title": "\nSainte Rose Blanc de Blancs Brut\n\n"
+    }
+  }
+]
